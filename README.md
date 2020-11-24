@@ -1,6 +1,8 @@
 <h1 align="center">Oi 👋, me chamo Guilherme José</h1>
 <h3 align="center">Desenvolvedor Back-End e corredor nas horas vagas...</h3>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=X5GuilhermeBR&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
+
 - 🔭 Atualmente trabalho na **Rede Globo**
 
 - 🌱 Atualmente estou estudando **.Net e Java**
