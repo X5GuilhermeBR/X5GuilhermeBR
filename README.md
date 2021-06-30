@@ -29,6 +29,6 @@ Iniciei minha primeira formação na área de tecnologia em Fevereiro de 2014, o
 
 <div align="right">
   <a href="https://joaovictornsv.vercel.app" title="Clique aqui">
-    <img src="https://i.pinimg.com/originals/25/ec/1d/25ec1da1ceb3d8c59ff61abda466e66d.gif" width=150 alt="Crafting Table"/>
+    <img src="#"/>
   </a>
 </div>
