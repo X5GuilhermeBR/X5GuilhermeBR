@@ -1,6 +1,6 @@
+<img alt="Qries" src="https://i.pinimg.com/originals/25/ec/1d/25ec1da1ceb3d8c59ff61abda466e66d.gif" width="150" height="150">
 <h1 align="center">Olá 👋, me chamo Guilherme José</h1>
 <h3 align="center">Desenvolvedor Front-end e corredor nas horas vagas...</h3>
-<img alt="Qries" src="https://i.pinimg.com/originals/25/ec/1d/25ec1da1ceb3d8c59ff61abda466e66d.gif" width=70" height="70">
 
 - 🔭 Atualmente estou trabalhando no projeto [Renova](https://renova.estacio.br/)
 
