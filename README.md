@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Perfil</h3>
+<h3 align="left">👩‍💻  perfil_</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">🛠 linguagens e ferramentas_</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   estatísticas_</h3>
 
 ###
 
